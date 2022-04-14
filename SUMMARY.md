@@ -1,12 +1,19 @@
 # Table of contents
 
-* [🎉 Official Token of Africa Unite development team](README.md)
-* [🪙 Token Specifications](token-specifications.md)
-* [🥅 Mission and Goals](mission-and-goals.md)
-* [⛳ Bitcoin Cash Mission](bitcoin-cash-mission.md)
-* [👷♂ Keys to Achieving the Mission](keys-to-achieving-the-mission.md)
-* [🇨🇫 Role of Martin₿ Token](role-of-martin-token.md)
-* [🛣 Roadmap](roadmap.md)
+## Welkom / Welcome
+
+* [🎉 Official Token](README.md)
+* [🛣 Roadmap](welkom-welcome/roadmap.md)
+* [🥅 Mission and Goals](welkom-welcome/mission-and-goals.md)
+* [👷♂ Keys to Achieving the Mission](welkom-welcome/keys-to-achieving-the-mission.md)
+* [🇨🇫 Role of Martin₿ Token](welkom-welcome/role-of-martin-token.md)
+* [⚙ Links](welkom-welcome/development-team.md)
+
+## Tokenomics
+
+* [🪙 Martin₿ Tokenomics](tokenomics/token-specifications.md)
+* [🍎 Token Info Links](tokenomics/afu-sep20-token.md)
+
+***
+
 * [🌐 Summary](summary.md)
-* [⚙ Development team](development-team.md)
-* [🪙 AFU SEP20 Token](afu-sep20-token.md)
