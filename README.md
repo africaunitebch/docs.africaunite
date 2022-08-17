@@ -1,7 +1,7 @@
 ---
 description: Africa Unite is the official SEP20 token of the Africa Unite development team.
-cover: .gitbook/assets/PicsArt_04-07-10.54.00.png
-coverY: -52.885496183206115
+cover: .gitbook/assets/gitbook-cover (1).png
+coverY: 0
 ---
 
 # 🎉 INTRODUCTION
