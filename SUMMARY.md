@@ -2,18 +2,36 @@
 
 ## Welkom / Welcome
 
-* [🎉 Official Token](README.md)
-* [🛣 Roadmap](welkom-welcome/roadmap.md)
-* [🥅 Mission and Goals](welkom-welcome/mission-and-goals.md)
-* [👷♂ 👷♂ Keys to Achieving the Mission](welkom-welcome/keys-to-achieving-the-mission.md)
-* [🇨🇫 🇨🇫 Role of Martin₿ Token](welkom-welcome/role-of-martin-token.md)
-* [⚙ Links](welkom-welcome/development-team.md)
+* [🎉 INTRODUCTION](README.md)
 
-## Tokenomics
+## Ecosystem
 
-* [🪙 Martin₿ Tokenomics](tokenomics/token-specifications.md)
-* [🍎 Token Info Links](tokenomics/afu-sep20-token.md)
+* [🍀 TOKEN](ecosystem/token.md)
+* [💰 Liquidity Pool 2x Farm](ecosystem/liquidity-pool-2x-farm.md)
+* [🚗 NFT COLLECTIONS](ecosystem/nft-collections.md)
+* [💸 Staking System](ecosystem/staking-system.md)
+* [🪙 DEX](ecosystem/dex.md)
 
-***
+## NFT Project Directory & Twitter Page News
 
-* [🌐 Summary](summary.md)
+* [💇♀ BULBUL EXPLORER](nft-project-directory-and-twitter-page-news/bulbul-explorer.md)
+* [💇♀ Bulbul Explorer - SmartBCH (Twitter)](nft-project-directory-and-twitter-page-news/bulbul-explorer-smartbch-twitter.md)
+
+## Promotion and Marketing
+
+* [🌐 NFT AIRDROP EVENT](promotion-and-marketing/nft-airdrop-event.md)
+* [🌐 TOKEN AIRDROP EVENT](promotion-and-marketing/token-airdrop-event.md)
+* [🌐 ADVERTISEMENT](promotion-and-marketing/advertisement.md)
+
+## The Team
+
+* [⭐ FOUNDING TEAM](the-team/founding-team.md)
+
+## Investors and Partners
+
+* [😎 INVESTORS AND PARTNERS](investors-and-partners/investors-and-partners.md)
+* [🔗 AFRICA UNITE RELATED LINKS](investors-and-partners/africa-unite-related-links.md)
+
+## Downloadables
+
+* [📖 Whitepaper v2.0](downloadables/whitepaper-v2.0.md)
