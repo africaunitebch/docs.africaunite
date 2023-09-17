@@ -9,7 +9,7 @@ layout: editorial
 
 ![](../.gitbook/assets/Chibu.jpg)
 
-Chibuoke is a dedicated supporter of Bitcoin Cash and the sidechain. A Nigerian seen as a role model in onboarding people to Bitcoin Cash in Africa. He hopes to be called the Bitcoin Cash Jesus of Africa. He’s a trained geologist, creative thinker , skilled in marketing and promotions and uphold integrity. He believes Africa needs a positive invasion (mass adoption of BCH).
+Chibuoke is a dedicated supporter of Bitcoin Cash and the sidechain. A Nigerian seen as a role model in onboarding people to Bitcoin Cash in Africa. He’s a trained geologist, creative thinker , skilled in marketing and promotions and uphold integrity. He believes Africa needs a positive invasion (mass adoption of BCH).
 
 ![](../.gitbook/assets/InvalidCast.jpg)
 
